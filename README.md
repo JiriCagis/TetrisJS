@@ -8,6 +8,10 @@ Game is compose with four bricks falling from top screen. The main goal player i
 If you complete fill row, the row disappear. Player must delete rows as long possible, because when brick touches top corner, 
 the game ends. Player can delete max four rows at one time by shape "I". This action is called tetris.
 
+<p align='center'>
+<img src="https://webcreatorslt.com/wp-content/uploads/2016/07/responsive-web-design-webcreatorslt.png"/>
+</p>
+
 ## Technologies
 * HTML
 * CSS
