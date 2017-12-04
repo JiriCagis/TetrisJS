@@ -9,6 +9,6 @@ If you complete fill row, the row disappear. Player must delete rows as long pos
 the game ends. Player can delete max four rows at one time by shape "I". This action is called tetris.
 
 ## Technologies
-HTML
-CSS
-Javascript
+* HTML
+* CSS
+* Javascript
