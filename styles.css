@@ -1,0 +1,21 @@
+html {
+	background: url(resources/background.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+body {
+	/*background: #202028;*/
+	color: #fff;
+	font-family: sans-serif;
+	font-size: 2em;
+	text-align: center;
+}
+
+canvas {
+	border: solid .2em #fff;
+	height: 85vh;
+	opacity: 0.7;
+}
