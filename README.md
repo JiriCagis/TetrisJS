@@ -16,3 +16,6 @@ the game ends. Player can delete max four rows at one time by shape "I". This ac
 * HTML
 * CSS
 * Javascript
+
+## Access
+If you like play the tetris game, click on this [link](http://jiricaga.cz/tetris)
